@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivasbharadwajk-ksb&label=Profile%20views&color=0e75b6&style=flat" alt="srinivasbharadwajk-ksb" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srinivasbharadwajk-ksb" alt="srinivasbharadwajk-ksb" /></a> </p>
+
 - 🔭 I’m a MCA Graduate **from BIT Bangalore**
 
 - 🌱 I’m currently learning **Cloud Computing in AWS**
@@ -23,9 +25,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/srinivaskb1018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/srinivaskb1018" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/srinivas-bharadwaj-k-8662b6189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/srinivas-bharadwaj-k-8662b6189/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/srinivasbharadwajk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/srinivasbharadwajk" height="30" width="40" /></a>
+<a href="https://twitter.com/srinivaskb1018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srinivaskb1018" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/srinivas-bharadwaj-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srinivas-bharadwaj-k" height="30" width="40" /></a>
+<a href="https://fb.com/srinivasbharadwajk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="srinivasbharadwajk" height="30" width="40" /></a>
 <a href="https://instagram.com/srinivas_seena@1018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srinivas_seena@1018" height="30" width="40" /></a>
 </p>
 
