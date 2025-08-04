@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **srinivasbharadwaj2406@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gtKbeSc5Cb39c6-ZnYSmaqjMNk0fj2Kg/view?usp=drive_link](https://drive.google.com/file/d/1gtKbeSc5Cb39c6-ZnYSmaqjMNk0fj2Kg/view?usp=drive_link)
+- 📄 Know about my experiences (https://drive.google.com/file/d/1gtKbeSc5Cb39c6-ZnYSmaqjMNk0fj2Kg/view?usp=drive_link](https://drive.google.com/file/d/1YF3I5ZiYSTq9kREhzvVvs7LZWyGipgUa/view?usp=sharing,)
 
 - ⚡ Interest **Cooking & Coding**
 
