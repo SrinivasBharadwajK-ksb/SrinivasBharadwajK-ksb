@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srinivas Bharadwaj K</h1>
-<h3 align="center">Aspiring software developer with an MCA graduation from Bangalore Institute of Technology, experienced in Python, Java, C++, SQL, and emerging technologies like deep learning and Neo4j. Certified in AI, machine learning, and graph databases, with a passion for data analysis. Held leadership roles in the Rotaract Club, demonstrating strong communication and team management skills.</h3>
+<h3 align="center">Motivated MCA graduate with hands-on experience in full-stack development, machine learning, and cloud technologies through multiple internships and academic projects. Eager to apply my skills in Python, Java, Flutter, and data analytics to solve real-world problems in a dynamic tech environment. I aim to contribute to impactful projects while continuously enhancing my knowledge in software engineering, artificial intelligence, and backend systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srinivasbharadwajk-ksb&label=Profile%20views&color=0e75b6&style=flat" alt="srinivasbharadwajk-ksb" /> </p>
 
